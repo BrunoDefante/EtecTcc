@@ -1,0 +1,196 @@
+G:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.exe.config
+G:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.exe
+G:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.xml
+G:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.pdb
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.exe.config
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.exe
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.xml
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.pdb
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.exe.config
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.exe
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.pdb
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.xml
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbprojResolveAssemblyReference.cache
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditCliente.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenCliente.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenUsers.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.frm_Principal.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Resources.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbproj.GenerateResource.Cache
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.exe
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.xml
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.pdb
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.exe
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.pdb
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.xml
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\aa\ProjetoTcc.resources.dll
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\pt-BR\ProjetoTcc.resources.dll
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.vbprojResolveAssemblyReference.cache
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Cad_Cliente.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditCliente.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerCliente.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenCliente.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenUsers.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.frm_Principal.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Resources.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.frm_Principal.aa.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.frm_Principal.pt-BR.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.vbproj.GenerateResource.Cache
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\aa\ProjetoTcc.resources.dll
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\pt-BR\ProjetoTcc.resources.dll
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.exe.config
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.exe
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.xml
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.pdb
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.exe
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.pdb
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.xml
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.vbprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Cad_Cliente.resources
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditCliente.resources
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerCliente.resources
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenCliente.resources
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenUsers.resources
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.frm_Principal.resources
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Resources.resources
+C:\Users\bruno\Desktop\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.vbproj.GenerateResource.Cache
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.exe.config
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.exe
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.xml
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.pdb
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.exe
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.pdb
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\bin\Debug\ProjetoTcc.xml
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.vbprojResolveAssemblyReference.cache
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Cad_Cliente.resources
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditCliente.resources
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerCliente.resources
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenCliente.resources
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenUsers.resources
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.frm_Principal.resources
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.Resources.resources
+E:\Bruno\ETEC INFORMATICA\ProjetoTcc - Copia\ProjetoTcc\obj\Debug\ProjetoTcc.vbproj.GenerateResource.Cache
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditUser.resources
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.exe.config
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.exe
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.xml
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.pdb
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Cad_Cliente.resources
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditCliente.resources
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditUser.resources
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerCliente.resources
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenCliente.resources
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenUsers.resources
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Resources.resources
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbproj.GenerateResource.Cache
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.exe
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.pdb
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.xml
+C:\Users\bruno\Desktop\Nova pasta\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Principal.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenFornec.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditFornec.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenFuncionario.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenProduto.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditFunc.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_login.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditProd.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Vendas.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsultaCliente.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsProduto.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.exe.config
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.exe
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.xml
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.pdb
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.exe
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.pdb
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.xml
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbprojResolveAssemblyReference.cache
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsProduto.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsultaCliente.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditCliente.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditFornec.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditFunc.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditProd.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditUser.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenCliente.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenFornec.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenFuncionario.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenProduto.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenUsers.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_login.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Principal.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Vendas.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Resources.resources
+F:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbproj.GenerateResource.Cache
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Vendas_Pagamento.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsultaFornecedor.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Relatorio.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\RdlCompile.cache
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\RdlCompile.compiled
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_CadClienteRapido.resources
+E:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Form1.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbprojResolveAssemblyReference.cache
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Form1.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_CadClienteRapido.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsProduto.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsultaCliente.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsultaFornecedor.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditCliente.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditFornec.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditFunc.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditProd.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditUser.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenCliente.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenFornec.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenFuncionario.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenProduto.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenUsers.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_login.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Relatorio.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Principal.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Vendas.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Vendas_Pagamento.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Resources.resources
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbproj.GenerateResource.Cache
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\RdlCompile.cache
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\RdlCompile.compiled
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\V AWS.exe.config
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\V AWS.exe
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\V AWS.pdb
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\V AWS.xml
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\V AWS.exe
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\V AWS.xml
+H:\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\V AWS.pdb
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\V AWS.exe.config
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\V AWS.exe
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\V AWS.xml
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\V AWS.pdb
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\V AWS.exe
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\V AWS.pdb
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\bin\Debug\V AWS.xml
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Form1.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_CadClienteRapido.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsProduto.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsultaCliente.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_ConsultaFornecedor.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditCliente.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditFornec.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditFunc.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditProd.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_EditUser.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenCliente.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenFornec.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenFuncionario.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenProduto.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_GerenUsers.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_login.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Relatorio.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Principal.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Vendas.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Frm_Vendas_Pagamento.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.Resources.resources
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.vbproj.GenerateResource.Cache
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\RdlCompile.cache
+C:\Users\bruno\Desktop\BACK UP PENDRIVE\Bruno\ETEC INFORMATICA\3ºSemestre\TCC\ProjetoTcc\ProjetoTcc\obj\Debug\RdlCompile.compiled
